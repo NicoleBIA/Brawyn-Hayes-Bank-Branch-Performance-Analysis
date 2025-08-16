@@ -1,5 +1,5 @@
 # Branwyn-Hayes Bank
-Branch Performance Intelligence Report
+**Branch Performance Intelligence Report**  
 KPI Trends, Strategic Insights, and Economic Interpretation
 
 This project presents a Power BI branch performance report built for a fictional retail bank, Branwyn-Hayes Bank. Using simulated multi-year data, it explores operational KPIs, product usage, digital and in-branch channel trends, loan penetration, and customer behavior patterns.

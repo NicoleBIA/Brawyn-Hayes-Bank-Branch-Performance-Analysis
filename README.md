@@ -4,7 +4,7 @@ KPI Trends, Strategic Insights, and Economic Interpretation
 
 This project presents a Power BI branch performance report built for a fictional retail bank, Branwyn-Hayes Bank. Using simulated multi-year data, it explores operational KPIs, product usage, digital and in-branch channel trends, loan penetration, and customer behavior patterns.
 
-Designed as both a performance overview and strategic analysis tool, the report highlights how macroeconomic shifts—such as inflation and digital banking adoption—may impact customer engagement, lending behavior, and revenue distribution at the branch level.
+Designed as both a performance overview and strategic analysis tool, the report highlights how macroeconomic shifts—such as inflation and digital banking adoption; may impact customer engagement, lending behavior, and revenue distribution at the branch level.
 
 ## Business Purpose & Core Questions
 
@@ -29,7 +29,7 @@ Using Power BI and simulated datasets, the analysis answers key strategic and op
 - 50 retail branches
 - 8 customer segments
 - 25 core products/services
-- 5 years of data (2020–2025)
+- 5 years of data (2020–7/2025)
 
 # The data model is structured in star schema format:
 
@@ -37,3 +37,17 @@ Using Power BI and simulated datasets, the analysis answers key strategic and op
 - Dim_Branch_Region
 - Dim_Customer_Segment
 - Dim_Product_Service
+
+## Key KPIs Tracked
+
+- Total Customers (Record-Based)
+- Loan Penetration %
+- Digital Usage %
+- In-Branch Usage %
+- Average Loan Amount
+- Total Deposits
+- Estimated Fee & Interest Revenue
+- Operational Costs
+- Average Balance per Customer
+- Branch Satisfaction Score
+- Revenue per Customer

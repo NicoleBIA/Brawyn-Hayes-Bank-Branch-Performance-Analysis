@@ -4,7 +4,7 @@ KPI Trends, Strategic Insights, and Economic Interpretation
 
 This project presents a Power BI branch performance report built for a fictional retail bank, Branwyn-Hayes Bank. Using simulated multi-year data, it explores operational KPIs, product usage, digital and in-branch channel trends, loan penetration, and customer behavior patterns.
 
-Designed as both a performance overview and strategic analysis tool, the report highlights how macroeconomic shifts—such as inflation and digital banking adoption; may impact customer engagement, lending behavior, and revenue distribution at the branch level.
+Designed as both a performance overview and strategic analysis tool, the report highlights how macroeconomic shifts such as inflation and digital banking adoption; may impact customer engagement, lending behavior, and revenue distribution at the branch level.
 
 ## Business Purpose & Core Questions
 
@@ -51,3 +51,38 @@ Using Power BI and simulated datasets, the analysis answers key strategic and op
 - Average Balance per Customer
 - Branch Satisfaction Score
 - Revenue per Customer
+
+## Insights & Strategic Interpretation
+
+The project goes beyond simple KPI tracking by surfacing insights related to:
+- Loan Penetration Decline Post-2022 – signaling rising cost of borrowing and inflation fatigue
+- In-Branch vs. Digital Usage Patterns – suggesting operational recalibration opportunities
+- Customer Segment Differentiation – highlighting high-value vs. high-risk segmen
+- Operational Costs vs. Performance – identifying branches with high cost-to-revenue ratios
+
+## Project Intent
+
+This project was developed to demonstrate how business intelligence tools can support branch-level strategy in a dynamic financial environment.
+It highlights the ability to use data-backed insights to inform decisions around customer engagement, operational priorities, and loan product trends.
+
+By blending operational analytics, consumer behavior interpretation, and economic context framing, the report models how a Strategy Support Analyst might synthesize complex data into clear, actionable intelligence.
+
+The insights reflect both the everyday realities of managing a retail branch network and the broader economic forces shaping customer decisions—positioning the work at the intersection of strategy, operations, and behavioral economics.
+
+## Stakeholders
+
+This report is designed to support a range of decision-makers and collaborators across the retail banking and strategy landscape, including:
+- Strategic Analysts and Branch Planning Teams looking to understand performance trends at the regional and branch level.
+- Operations Managers interested in optimizing customer engagement and resource allocation across digital and in-branch channels.
+- Product and Loan Teams seeking insight into adoption patterns and cross-sell performance.
+- Data Analysts and BI Developers aiming to translate business questions into interactive Power BI reports.
+- Cross-functional partners, including recruiters, hiring managers, and technical collaborators, evaluating business intelligence capabilities and strategic thinking.
+
+## Visual Gallery
+
+Visuals uploaded in /Visuals folder (PNG format), including:
+- Branch Scorecard 
+- Loan Penetration Trend (2020–2025)
+- Channel Engagement Overview (Digital vs. In-Branch)
+- Revenue vs. Operational Cost Scatter
+- Customer Segment Performance Heatmap

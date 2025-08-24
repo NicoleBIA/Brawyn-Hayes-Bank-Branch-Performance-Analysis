@@ -2,7 +2,7 @@
 
 ## Overview: Why These Measures Were Created
 
-In support of the **Branch Strategy Insights Analysis**, it was necessary to create a targeted set of DAX measures to evaluate core KPIs across multiple dimensions of performance. These measures were designed to uncover patterns in **operational efficiency**, **cost to serve**, **loan and deposit dynamics**, **revenue generation**, and **customer engagement behaviors** — particularly across segments, products, and time. Together, they provide the analytical backbone needed to assess branch-level effectiveness, highlight opportunities for strategic enablement, and align insights with macroeconomic conditions and evolving consumer behaviors.
+In support of the **Branch Strategy Insights Analysis**, it was necessary to create a targeted set of DAX measures to evaluate core KPIs across multiple dimensions of performance. These measures were designed to uncover patterns in **operational efficiency**, **cost to serve**, **loan and deposit dynamics**, **revenue generation**, and **customer engagement behaviors**; particularly across segments, products, and time. Together, they provide the analytical backbone needed to assess branch-level effectiveness, highlight opportunities for strategic enablement, and align insights with macroeconomic conditions and evolving consumer behaviors.
 
 ---
 

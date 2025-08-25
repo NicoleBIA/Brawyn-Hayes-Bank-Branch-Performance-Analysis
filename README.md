@@ -69,7 +69,7 @@ It highlights the ability to use data-backed insights to inform decisions around
 
 By blending operational analytics, consumer behavior interpretation, and economic context framing, the report models how a Strategy Support Analyst might synthesize complex data into clear, actionable intelligence.
 
-The insights reflect both the everyday realities of managing a retail branch network and the broader economic forces shaping customer decisions—positioning the work at the intersection of strategy, operations, and behavioral economics.
+The insights reflect both the everyday realities of managing a retail branch network and the broader economic forces shaping customer decisions; positioning the work at the intersection of strategy, operations, and behavioral economics.
 
 ## Stakeholders
 

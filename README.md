@@ -21,7 +21,7 @@ Using Power BI and simulated datasets, the analysis answers key strategic and op
 ## Tools & Technologies Used
 
 - Power BI data modeling, KPI visualizations, DAX measures, and storytelling
-- Simulated SQL-structured dataset – includes fact and dimension tables
+- Synthetic structured Excel dataset – includes fact and dimension tables
 - DAX for custom measures, % change tracking, and segmentation logic
 - Excel for initial data inspection, cleaning and data validation
 
@@ -59,7 +59,7 @@ Using Power BI and simulated datasets, the analysis answers key strategic and op
 The project goes beyond simple KPI tracking by surfacing insights related to:
 - Loan Penetration Decline Post-2022 – signaling rising cost of borrowing and inflation fatigue
 - In-Branch vs. Digital Usage Patterns – suggesting operational recalibration opportunities
-- Customer Segment Differentiation – highlighting high-value vs. high-risk segmen
+- Customer Segment Differentiation – highlighting high-value vs. high-risk segment
 - Operational Costs vs. Performance – identifying branches with high cost-to-revenue ratios
 
 ## Project Intent
